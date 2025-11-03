@@ -1,8 +1,12 @@
 # Blue's University Corpus
 > cor·pus
+>
+>
 > /ˈkôr-pəs/
+>
+>
 > 3.a: all the writings or works of a particular kind or on a particular subject
->   *especially* : the complete works of an author 
+> <br>   *especially* : the complete works of an author 
 >
 > From the [Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/corpus)
 
