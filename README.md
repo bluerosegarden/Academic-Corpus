@@ -15,3 +15,5 @@ I write in plain-text .org files using [emacs](https://www.gnu.org/s/emacs/), wi
 I also use [obsidian](http://obsidian.md/) as a personal knowledge management tool.
 
 I do not use AI with any of the above tools.
+
+Feel free to email me at [mail@bluerose.garden](mailto:mail@bluerose.garden) if you have any questions or concerns!
