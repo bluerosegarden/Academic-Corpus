@@ -1,4 +1,4 @@
-# Blue's University Corpus
+# Blue's Academic Corpus
 > cor·pus
 >
 >
