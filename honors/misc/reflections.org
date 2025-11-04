@@ -2,13 +2,15 @@
 
 * Reflections
 ** Honors Ambassador
+Time Frame: 2022-2024 (*? check dates*)
+
 My time as an Honors Ambassador at JCCC is something I miss more & more with each passing semester.
 
 As someone aiming for a Bachelor's in Computer-Science, that might be surprising to hear. I was not hired to write software or help maintain a database of some kind. Instead, to put it as simply as possibly, I was hired to /help/ people. That may be an oversimplification of the duties of an Honors Ambassador, but when looking back on my experience, it's the truest way to describe it.
 
-While we were expected to pitch and take on organizing events and projects related to Honors, I found the majority of my day-to-day work was spent helping to complete small tasks assigned to us. From guiding lost students to writing scripts to fix a spreadsheets for a faculty member, each of those little moments of just /helping/ people was something I looked forward to each day. Even replying to the emails students sent to the shared honors inbox gave me that joy. /The emails!/ 
+While we were expected to pitch and take on organizing events and projects related to Honors, I found the majority of my day-to-day work was spent helping to complete small tasks assigned to us. From guiding lost students to writing scripts to fix a spreadsheets for a faculty member, each of those little moments of just /helping/ people was something I looked forward to each day. Even replying to the emails students sent to the shared honors inbox gave me that joy. I'll say it again, /even the emails!/ 
 
-I remember how nervous I was my first semester. I had never worked in an office environment before, and I was worried how
+It's easy to feel helpless in this day and age. With near-daily news of genocide, people being detained and deported to inhumane prisons without due process, it's hard not to. This I've heard many times that during times like these, what helps the most is to be active in your community,  
 
 - Honors taught me how much I love to help people
 - Honors taught me how much I love using my skills in programming to help people.
