@@ -1,6 +1,3 @@
-
-## Honors Ambassador
-
 Time Frame: 2022-2024
 
 My time as an Honors Ambassador at Johnson County Community College is something I miss more and more with each passing semester.
