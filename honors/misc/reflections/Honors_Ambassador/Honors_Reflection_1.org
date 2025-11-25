@@ -1,8 +1,15 @@
-#+title: Reflections
-
-* Honors Ambassador
-Time Frame: 2022-2024
-
+#+OPTIONS: toc:nil
+#+BEGIN_EXPORT typst
+#import "mla9.typ": *
+#show: mla.with(
+  author: (
+    firstname: "Blue",
+    lastname: "Ingram"
+),
+  title: "My Reflections on being an Honors Ambassador"
+)
+#+END_EXPORT
+* Honors Ambassador :ignore:
 My time as an Honors Ambassador at Johnson County Community College is something I miss more and more with each passing semester.
 
 As someone aiming for a Bachelor's in Computer-Science, that might be surprising to hear. I was not hired to write software or help maintain some kind of database. Instead, to put it as simply as possible, I was hired to /help/ people. While that may be an oversimplification of the duties of an Honors Ambassador, when looking back on my experience, it's the truest way I can describe it.
