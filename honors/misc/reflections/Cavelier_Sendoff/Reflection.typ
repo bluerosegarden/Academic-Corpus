@@ -5,24 +5,26 @@
 )
 
 #let Voice(body) = {
-     set text(fill: rgb("#EFBF04"))
+     set text(fill: gray)
      [#h(50pt)#body]
 }
 
 The Voice from on high shouted down with a single, ringing message:
 
-#Voice[You, who do not belong, stand in the way of Our return to Greatness]
+#Voice[You, who do not belong, stand in the way of Our return to Greatness.]
 
-#Voice[An insect, discoloring Our marble and gold]
+#Voice[Insects, discoloring Our marble and gold.]
 
-Ashamed of us, the Voice demanded we remain hidden. Demanded we do not deserve to have pride. 
+Ashamed of us, the Voice demanded we remain hidden. 
 
-For people like me are no longer people, but living agendas that should be stamped out.
+Forced to capitulate, our institutions obeyed one by one
 
-Forced to capitulate, our institutions obeyed.
+For people like me are no longer people before the Voice, but living agendas that should be stamped out.
 
-Living beneath that Voice, i couldn't help to feel powerless. Protesting would be giving them a target to aim at, a neck to wrap their rope around,
+If only my plumage was one of ivory, reflecting the faces of the Voice, able to protest without providing a target to aim at, a neck to wrap their rope around
 
-But we could still come together.
+Hand in hand, heart in heart, we joined together, celebrating ourselves and one another 
 
-We were able to hold hands with one another, even if a hand could not be offered in support from above.
+In spite of the Voice that told we should be ashamed, undeserving of pride, of diversity, equality, or inclusion, we sent our caveliers off in celebration
+
+No matter how the Voice may shout, scream, threaten, we will exist. We will outlive it.
