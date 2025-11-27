@@ -15,18 +15,18 @@ The Voice from on high shouted down with a single, ringing message:
 
 #Voice[Insects, discoloring Our marble and gold.]
 
-Ashamed of us, the Voice demanded we remain hidden. 
+Ashamed of us, the Voice demanded we remain hidden
 
 Forced to capitulate, our institutions obeyed one by one
 
-For people like me are no longer people before the Voice, but living agendas that should be stamped out.
+For people like me are no longer people before the Voice, but living agendas that should be stamped out
 
-If only my plumage was one of ivory, reflecting the faces of the Voice, able to protest without providing a target to aim at, a neck to wrap rope around
+If only my plumage was one of ivory, reflecting the faces of the Voice, then I could protest it without providing a target to aim at, a neck to wrap rope around
 
 Hand in hand, heart in heart, we joined together, celebrating ourselves and one another 
 
 In spite of the Voice that told we should be ashamed, undeserving of pride, of diversity, equality, or inclusion, we sent our caveliers off in celebration
 
-No matter how the Voice may shout, scream, threaten, we will exist.
+No matter how the Voice may shout, scream, threaten, we will exist
 
 We will outlive it.
