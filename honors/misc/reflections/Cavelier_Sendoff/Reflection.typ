@@ -25,7 +25,7 @@ If only my plumage was one of ivory, reflecting the faces of the Voice, then I c
 
 Hand in hand, heart in heart, we joined together, celebrating ourselves and one another 
 
-In spite of the Voice that told we should be ashamed, undeserving of pride, of diversity, equality, or inclusion, we sent our caveliers off in celebration
+In spite of the Voice that told we should be ashamed, undeserving of pride, of diversity, equality, or inclusion, we sent our cavaliers off in celebration
 
 No matter how the Voice may shout, scream, threaten, we will exist
 
