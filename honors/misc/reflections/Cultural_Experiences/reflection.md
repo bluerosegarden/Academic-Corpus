@@ -1,0 +1,36 @@
+
+# Table of Contents
+
+    1.  [Experiences](#orgcdf453d)
+1.  [Cultural Experiences Reflection](#orgd03288e)
+
+
+
+<a id="orgcdf453d"></a>
+
+## Experiences
+
+-   Undertale determination concert [live event]
+-   The Tale of the Princess Kaguya (2013 film)
+-   Cosmic Princess Kaguya (2026 film)
+-   House (1977 film)
+-   KC Live at Power and Light [live event]
+-   Kamikaze Girls (2004 film)
+-   She Shoots Straight (1990 film)
+-   Pan&rsquo;s Labyrinth (2006 film)
+
+
+<a id="orgd03288e"></a>
+
+# Cultural Experiences Reflection
+
+My chest reverberated in sync with the hundreds of people around me. I shouted half-remembered lyrics that no one but me could hear over the booming performance. This was how it felt to be at my first rave, but not the first time this semester that I was marveled by how powerful music was.
+
+One of the first times that realization hit me was during my viewing of the films &ldquo;The Tale of Princess Kaguya&rdquo; (2013) and &ldquo;Cosmic Princess Kaguya&rdquo; (2026). Both films are retellings of the Japanese folktale &rsquo;The Tale of the Bamboo Cutter&rsquo;, with the 2026 film having a more futuristic take on the story. Despite how different the two films were, music was very important in both, with Kaguya being born with a song in her heart in the first film, and the main character being a songwriter in the second. One thing that struck me was how Cosmic Princess Kaguya played with musical styles in its soundtrack, combining traditional Japanese instruments with more modern electronic sounds, further emphasizing music&rsquo;s impact across time.
+
+No time period was more emphasized through its use of music than in the 1990 Hong Kong action film She Shoots Straight. I was shocked at just how familiarity &rsquo;80s&rsquo; the film felt, in the hair, clothes, and of course, the music. Subconsciously I had assumed that what I thought of as &rsquo;80s culture&rsquo; was extremely localized to the Americas. It never occurred to me that, even in the age before mass adoption of the internet, even something like the style of music was something that was something that was shared across the world.
+
+The first time I marveled the power of music was when I cried during the Undertale concert. It was the performance of the eponymous song, the simple guitar melody blossoming into a beautiful orchestral experience that brought me (and several others!) to tears. Undertale released in 2015, over a decade ago, and there I sat, with a full concert hall of other fans of not only the game, but its music. People of all ages, from kids younger than the game being brought along by their parents, to those same parents themselves. What brought us all together was more than just a game, it was the emotions we&rsquo;ve embedded into the music over the course of years and years.
+
+I have had very little experience with instruments growing up. Aside from a brief stint with the saxophone, being a musician always felt like a skill out of reach. Something for other people to learn, not me. Slowly I&rsquo;ve been trying to challenge that thought, but never allowing myself to take a chance further than just thinking about it. That changed in October when I found my Dad&rsquo;s old electric guitar. He, similarly to me, barely touched it any instruments. There was still plastic film on the front panel. I can&rsquo;t play much on it yet, but I can play one song that made me cry not too long ago.
+
